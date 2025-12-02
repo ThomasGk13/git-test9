@@ -2,7 +2,7 @@ package gr.aueb.cf.testgit;
 
 public class MulApp {
     public static void main(String[] args) {
-        System.out.println(multiply);
+        System.out.println(multiply(5, 6));
     }
     
     public static int multiply(int a, int b) {
